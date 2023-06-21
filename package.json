@@ -1,8 +1,8 @@
 {
   "name": "com.keiran.unity-validation",
   "displayName": "Keiran - Validation",
-  "version": "0.0.0",
-  "unity": "2022.3.0",
+  "version": "1.0.0",
+  "unity": "2022.1",
   "description": "Simple user input validator",
   "keywords": [
     "unity",

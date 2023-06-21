@@ -1,0 +1,11 @@
+{
+  "name": "Unity.com.keiran.unity-validation.Tests",
+  "references": [
+    "Unity.com.keiran.unity-validation"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}

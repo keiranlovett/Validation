@@ -1,0 +1,27 @@
+{
+  "name": "com.keiran.unity-validation",
+  "displayName": "Keiran - Validation",
+  "version": "0.0.0",
+  "unity": "2022.3.0",
+  "description": "Simple user input validator",
+  "keywords": [
+    "unity",
+	"unity3d",
+	"upm",
+    "keiran",
+    "utility"
+  ],
+  "homepage": "https://github.com/keiran/unity-validation.git",
+  "bugs": {
+    "url": "https://github.com/keiran/unity-validation/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/keiran/unity-validation.git"
+  },
+  "license": "MIT",
+  "author": "Keiran (https://keiran.me)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
